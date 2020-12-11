@@ -1,0 +1,9 @@
+
+^
+java:S1119ß";Refactor the code to remove this label and the need for it.(ış²±øÿÿÿÿ8‹§Ğ•å.
+[	java:S106ä"9Replace this use of System.out or System.err by a logger.(À¿†Ÿıÿÿÿÿ8»›Æ•å.
+[	java:S106Ù"9Replace this use of System.out or System.err by a logger.(âÌ‡¿ÿÿÿÿÿ8Œ¨«•å.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘8£‰È•å.
+Y
+java:S1119Õ";Refactor the code to remove this label and the need for it.(Êê¾ó8ÁÕ•å.
